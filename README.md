@@ -5,3 +5,4 @@ Predictive Analytics performed on the online retail dataset from Kaggle- https:/
 Topics covered: 
              1. Understanding the metrics. 
              2. Customer Segmentation.
+             3. A/B Testing
